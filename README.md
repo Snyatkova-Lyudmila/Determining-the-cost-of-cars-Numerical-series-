@@ -1,1 +1,0 @@
-# Determining-the-cost-of-cars-Numerical-series-
